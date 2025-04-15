@@ -23,9 +23,8 @@ I am currently pursuing a Master of Science in Data Science at the University of
 **Maurya Group** - Kolhapur, IN (Remote, Part-time, Sep 2022 – Aug 2023)
 - Supported project management for automotive parts supply projects to major clients like Tata, Tesla, and Mahindra.
 
-### Data Analyst
+### Data Analyst | AI
 **Softron** - Kolhapur, IN (July 2021 – July 2023)
-- Developed and optimized ETL pipelines and implemented predictive models to enhance healthcare delivery outcomes.
 
 ## Education
 
